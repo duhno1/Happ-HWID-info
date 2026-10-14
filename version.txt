@@ -2,9 +2,9 @@
   "app":"happ_android",
   "ret": 1,
   "msg": "ok",
-  "data": "4.7.1",
+  "data": "5.7.1",
   "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
-  "details": "-Xray core 26.9.9\n-Added support of complex 'headers' query parameter structure for WebSocket configurations\n-Added the ability to reset certain meta parameters\n-Improved the stability of provider status detection\n-Expanded support for filtering servers based on the traffic used for all users\n-Improved UX for the subscription properties (three dots / settings) and subscription settings screen for TV\n-Improved the stability of downloading geofiles\n-Fixed the ability to open .json and .happ files via the app\n-Fixed minor issues with the QR-code import from the device gallery",
+  "details": "Подпишись",
   "filenum": 1168,
   "apk": {
     "block": [
