@@ -22,7 +22,7 @@
       }
     },
     "stable": {
-      "version": "3.7.1",
+      "version": "4.7.1",
       "link": "https://www.youtube.com/watch?v=HIcSWuKMwOw",
       "details": "Скачайте новую версию нашего мода из тг-канала @\n\nИзменения:\nnothing",
       "update": {
