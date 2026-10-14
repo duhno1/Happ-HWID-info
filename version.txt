@@ -26,7 +26,7 @@
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
       "details": "Подпишись на Телеграм @",
       "update": {
-        "nowarn": "4.100.1",
+        "nowarn": "5.7.1",
         "warnonce": "4.7.2",
         "warnweek": "4.7.2",
         "warnalways": "4.7.2",
