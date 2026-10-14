@@ -3,15 +3,15 @@
   "ret": 1,
   "msg": "ok",
   "data": "4.7.1",
-  "link": "https://www.youtube.com/watch?v=HIcSWuKMwOw",
-  "details": "вышла новая версия приложения теперь в него вшит вирус он украдет все твои данные.\n\n\n будете ли вы покупать скин вантуз ээ вантузмена из сериала шкибиди туалета? оо шкибиди доп доп ес ес, ес шкибиди доп доп ес ес. надо кстати купить этот туалет вот ааа шкибиди доп доп ес ес потому что это реально мемно мемно",
+  "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
+  "details": "-Xray core 26.9.9\n-Added support of complex 'headers' query parameter structure for WebSocket configurations\n-Added the ability to reset certain meta parameters\n-Improved the stability of provider status detection\n-Expanded support for filtering servers based on the traffic used for all users\n-Improved UX for the subscription properties (three dots / settings) and subscription settings screen for TV\n-Improved the stability of downloading geofiles\n-Fixed the ability to open .json and .happ files via the app\n-Fixed minor issues with the QR-code import from the device gallery",
   "filenum": 1168,
   "apk": {
     "block": [
     ],
     "beta": {
-      "version": "3.7.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ_beta.apk",
+      "version": "4.7.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ_beta.apk",
       "details": "-UX improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
@@ -23,8 +23,8 @@
     },
     "stable": {
       "version": "4.7.1",
-      "link": "https://www.youtube.com/watch?v=HIcSWuKMwOw",
-      "details": "Скачайте новую версию нашего мода из тг-канала @\n\nИзменения:\nnothing",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
+      "details": "-Xray core 26.9.9\n-Added support of complex 'headers' query parameter structure for WebSocket configurations\n-Added the ability to reset certain meta parameters\n-Improved the stability of provider status detection\n-Expanded support for filtering servers based on the traffic used for all users\n-Improved UX for the subscription properties (three dots / settings) and subscription settings screen for TV\n-Improved the stability of downloading geofiles\n-Fixed the ability to open .json and .happ files via the app\n-Fixed minor issues with the QR-code import from the device gallery",
       "update": {
         "nowarn": "4.100.1",
         "warnonce": "4.7.2",
