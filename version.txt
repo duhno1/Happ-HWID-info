@@ -10,8 +10,8 @@
     "block": [
     ],
     "beta": {
-      "version": "4.7.1",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ_beta.apk",
+      "version": "3.7.1",
+      "link": "https://github.com/Happ-proxy/happ-android/releases/download/3.7.1/Happ_beta.apk",
       "details": "-UX improvements and fixes",
       "update": {
         "nowarn": "4.100.1",
