@@ -22,7 +22,7 @@
       }
     },
     "stable": {
-      "version": "3.7.1",
+      "version": "4.9.0",
       "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
       "details": "Подпишись на Телеграм @",
       "update": {
