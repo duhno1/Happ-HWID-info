@@ -23,8 +23,8 @@
     },
     "stable": {
       "version": "4.9.0",
-      "link": "https://github.com/Happ-proxy/happ-android/releases/download/4.7.1/Happ.apk",
-      "details": "Подпишись на Телеграм @",
+      "link": "https://github.com/duhno1/Happ-HWID-info/releases/download/update/happHWID-4.9.0.apk",
+      "details": "Приложение обновлено до 4.9.0\n\nПодпишись на Телеграм @Happ_HWID",
       "update": {
         "nowarn": "5.7.1",
         "warnonce": "4.7.2",
